@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ErzaGame/Scene/ErzaStart.unity
+    guid: a509786ebdda7f64180c26f334dc91e9
+  - enabled: 1
+    path: Assets/ErzaGame/Scene/Erza01.unity
+    guid: f1d1837e20190254495eefe192118b0a
+  - enabled: 1
+    path: Assets/MyGame/Scenes/MyMain.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/LightGirlGame/Scene/LightGirl01.unity
+    guid: 1f05ed328cc291e4594df11c589b0055
+  - enabled: 1
+    path: Assets/KasanteGame/Scene/KasaStartManager.unity
+    guid: d3100484a2365114cb79ee1b4d4b75f4
+  - enabled: 1
+    path: Assets/KasanteGame/Scene/Kasante01.unity
+    guid: 652d7b5a6ffd08e49b1c79a5d93aafba
+  m_configObjects: {}
